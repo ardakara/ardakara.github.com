@@ -1,0 +1,28 @@
+/* ===== Primary Styles ========================================================
+   Author:
+   ========================================================================== */
+
+/* Georgia OR Oswald? Try large size. */
+.arda_content {
+	color:white; 
+	font-family: 'Garamond', serif;
+	font-size: 46px;
+  	line-height: 46px;
+	text-shadow: 0 -1px 1px #CCCCCC;
+}
+
+a.arda_header{
+  	color: #2cbdd8;
+  	font-family: 'Garamond', serif;
+  	font-size: 52px;
+  	line-height: 52px;
+  	text-shadow: 0 -1px 1px #1f8ea3;
+}
+
+.arda_content::selection {
+	background: #660000;
+}
+
+.arda_header::selection {
+	background: #660000;
+}
