@@ -11,12 +11,20 @@
 	text-shadow: 0 -1px 1px #CCCCCC;
 }
 
-a.arda_header{
+.arda_header{
   	color: #2cbdd8;
   	font-family: 'Garamond', serif;
   	font-size: 52px;
   	line-height: 52px;
   	text-shadow: 0 -1px 1px #1f8ea3;
+}
+
+a.arda_header{
+    color: #2cbdd8;
+    font-family: 'Garamond', serif;
+    font-size: 52px;
+    line-height: 52px;
+    text-shadow: 0 -1px 1px #1f8ea3;
 }
 
 .arda_content::selection {
